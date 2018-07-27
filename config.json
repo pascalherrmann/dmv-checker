@@ -1,0 +1,21 @@
+{
+  "checkingConfig": {
+    "checkIntervalMinutes": 3,
+    "maxDaysInFuture": 17,
+    "slackWebHook":
+      "https://hooks.slack.com/services/....."
+  },
+  "appointmentInfo": {
+    "firstName": "Pascal",
+    "lastName": "Herrmann",
+    "dlNumber": "Y0000000",
+    "birthMonth": "11",
+    "birthDay": "13",
+    "birthYear": "1995",
+    "telArea": "669",
+    "telPrefix": "000",
+    "telSuffix": "0000"
+  },
+  "cookie":
+    "PASTE YOUR COOKIE HERE!"
+}
